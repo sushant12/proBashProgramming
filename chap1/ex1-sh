@@ -1,0 +1,8 @@
+#!/bin/bash
+#Author: Sushant Bajrachayra
+#email: sussyoung9@gmail.com
+#website: sushant12.github.io
+cd $HOME
+mkdir bpl
+cd bpl
+mkdir bin scripts

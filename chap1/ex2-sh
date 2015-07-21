@@ -1,0 +1,5 @@
+#!/bin/bash
+cd $HOME/bpl/bin
+echo echo Hello, World! > hw
+chmod +x hw
+./hw
